@@ -1,0 +1,15 @@
+---
+title: UC Berekeley Shiny App Info
+author: "James Nacino"
+date: "Tuesday, June 16, 2015"
+output: pdf_document
+---
+
+##About
+
+This app calculates the probability of each gender getting admitted into a specific department at UC Berkeley. A random six departments from UC Berkeley is loaded that you may select from. The data is from the datasets package ("UCBAdmissions"") from Cran.
+
+##Manual
+Select one field from "Gender" and one field from "Department." The app will calculate the probability of you getting into that specific department based upon your gender.
+
+
